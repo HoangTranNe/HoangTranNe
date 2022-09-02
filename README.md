@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HoangTranNe
-- 👀 I’m interested in Python, C++, C#
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in Javascript, HTML, CSS
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on GitHub or Linkedin
 - 📫 How to reach me : tranbaohoang70@gmail.com
 
